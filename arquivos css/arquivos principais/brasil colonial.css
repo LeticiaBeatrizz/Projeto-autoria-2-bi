@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin: 0;
+    background-color: #2b1100;
+    
+}
+
+table {
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    border: none;
+    padding: 0;
+    width: 5%;
+}
+
+.opções {
+    width: 200px;
+    height: 200px;
+}
+
+.menu {
+    background-color: #5b361e;
+    color:white;
+    text-align: center;
+    font-size: large;
+    margin: 0;
+    padding: 10px;
+
+}
+
+img {
+    text-align: center;
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
